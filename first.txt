@@ -1,4 +1,4 @@
 i
 this is my first file
-
+view log
 To check git stash
